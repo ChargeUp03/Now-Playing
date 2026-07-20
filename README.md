@@ -1,7 +1,7 @@
 # Now Playing
 Minecraft's music discs, reimagined!
 
-Also available on [Modrinth](#) and [Gumroad](#)!
+Also available on [Modrinth](#)!
 
 <div align="center">
   <img src="Assets\nowplaying_banner.png" width="500" height="auto">
