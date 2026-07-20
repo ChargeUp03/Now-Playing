@@ -26,7 +26,7 @@ Now Playing updates the textures of all the music discs to a more modern, top-do
 ## Now Playing Datapack
 You can optionally install the companion datapack for Now Playing too! It adds the album name to the item tooltip and the text when you put a disc in a jukebox. You can get it [here](#).
 
-  <img src="Assets\tooltip.png" width="256" height="auto">
+  <img src="Assets\tooltip.png" width="500" height="auto">
 
 ## Installation
 ### Minecraft: Java Edition
