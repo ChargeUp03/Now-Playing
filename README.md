@@ -18,7 +18,7 @@ Now Playing updates the textures of all the music discs to a more modern, top-do
 - Album covers that show the real-life album the song is from
 - Alternate texture when dropped as an item
 
-  <img src="Assets\dropped_item.gif" width="256" height="auto">
+  <img src="Assets\dropped_item.gif" width="500" height="auto">
    
 - Updated disc fragment texture 
 - Unique texture for discs 11 and 5
@@ -26,7 +26,7 @@ Now Playing updates the textures of all the music discs to a more modern, top-do
 ## Now Playing Datapack
 You can optionally install the companion datapack for Now Playing too! It adds the album name to the item tooltip and the text when you put a disc in a jukebox. You can get it [here](#).
 
-  <img src="Assets\tooltip.png" width="128" height="auto">
+  <img src="Assets\tooltip.png" width="256" height="auto">
 
 ## Installation
 ### Minecraft: Java Edition
@@ -48,4 +48,6 @@ You may use this resource pack in modpacks, but you must credit me as Charge.
 
 All sprites and code are the property as Charge, besides the album covers, which are owned by their respective owners. 
 
-README v0.5 Beta
+<br>
+
+README v1.0
