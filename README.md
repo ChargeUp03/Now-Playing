@@ -4,13 +4,13 @@ Minecraft's music discs, reimagined!
 Also available on [Modrinth](#) and [Gumroad](#)!
 
 <div align="center">
-  <img src="nowplaying_banner.png" width="500" height="auto">
+  <img src="assets\nowplaying_banner.png" width="500" height="auto">
 
 ## Overview
 Now Playing updates the textures of all the music discs to a more modern, top-down style, while also showing the album cover!
 
 <div align="center">
-  <img src="discs.png" width="128" height="auto">
+  <img src="assets\discs.png" width="128" height="auto">
 
 ## Features
 - Fully custom, top-down disc textures that retain the original sprite’s style
@@ -18,7 +18,7 @@ Now Playing updates the textures of all the music discs to a more modern, top-do
 - Alternate texture when dropped as an item
 
  <div align="center">
-  <img src="dropped_item.gif" width="128" height="auto">
+  <img src="assets\dropped_item.gif" width="128" height="auto">
    
 - Updated disc fragment texture 
 - Unique texture for discs 11 and 5
@@ -27,7 +27,7 @@ Now Playing updates the textures of all the music discs to a more modern, top-do
 You can optionally install the companion datapack for Now Playing too! It adds the album name to the item tooltip and the text when you put a disc in a jukebox. You can get it [here](#).
 
  <div align="center">
-  <img src="tooltip.png" width="128" height="auto">
+  <img src="assets\tooltip.png" width="128" height="auto">
 
 ## Installation
 ### Minecraft: Java Edition
@@ -49,4 +49,4 @@ You may use this resource pack in modpacks, but you must credit me as Charge.
 
 All sprites and code are the property as Charge, besides the album covers, which are owned by their respective owners. 
 
-README v0.2 Beta
+README v0.3 Beta
